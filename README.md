@@ -1,2 +1,2 @@
 # golang
-A simple tool of grep with golang
+A commod-line tool of grep with golang
