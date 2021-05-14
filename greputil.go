@@ -15,7 +15,7 @@ const HELP = `
     Search for PATTERNS in one FILE.
 
     Example:
-        go run main.go -s -c "hello" file/test.txt
+        go run main.go -s -c "ERROR" file/engine.log
 
     PATTERNS can contain multiple strings separated by comma.
 `
