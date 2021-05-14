@@ -86,6 +86,7 @@ func main() {
 
 }
 
+/* colour output function need to be improved later */
 func SearchStr(opt string, patterns string, destFile string, colour bool) {
 
 	var clr string
